@@ -1,0 +1,2 @@
+# coursera_Exploratory_Data_Analysis_for_Machine_Learning
+This repo contains files for the evaluation project of coursera course Exploratory_Data_Analysis_for_Machine_Learning.
